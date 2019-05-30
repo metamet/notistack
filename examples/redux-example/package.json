@@ -6,6 +6,10 @@
     "url": "git+https://github.com/iamhosseindhv/notistack.git",
     "type": "git"
   },
+  "author": {
+      "name": "Tyler Tyssedal",
+      "url": "https://github.com/metamet"
+  },
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.0.1",
